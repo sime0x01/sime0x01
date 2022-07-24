@@ -14,7 +14,7 @@ So, you found me.
 ![](https://img.shields.io/badge/-YARA-green)
 ![](https://img.shields.io/badge/-Detect_It_Easy-yellow)
 ![](https://img.shields.io/badge/-Low_Level_Programming-green)
-![](https://img.shields.io/badge/-OS_Internals-pink)
+![](https://img.shields.io/badge/-OS_Internals-yellow)
 ![](https://img.shields.io/badge/-C-gray)
 ![](https://img.shields.io/badge/-IDA_Pro-blue)
 ![](https://img.shields.io/badge/-Red%20Hat-red)
