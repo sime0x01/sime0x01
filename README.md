@@ -29,6 +29,4 @@ So, you found me.
 
 ********
 
-  <summary>📊 Github Stats</summary>
-
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sime0x01&show_icons=true&theme=gotham" alt="Joel's Stats" />
