@@ -4,7 +4,7 @@ So, you found me.
 
 - 🔭 I’ve spent my time discovery how hack anything.
 - 💚 I am freak and learning about Computer Engineer, Reversing, Malware, Red Teaming, Intelligence.
-- 🌱 See my [BlogSpot](https://sime0x01.github.io).
+- 🌱 See my [BlogSpot](https://sime0x01.vercel.app).
 - ⚡ Fun fact: I don't like watch movies or series.
 
 ## Things I love
